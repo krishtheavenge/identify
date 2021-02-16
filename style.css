@@ -1,0 +1,72 @@
+body{
+    font-family: 'Sonsie One', cursive;
+    background-color: darkcyan;
+}
+.header_div img{
+    width: 100px;
+    border-radius: 10px;
+}
+.header_div{
+    background-color: white;
+    color: black;
+}
+.main_div{
+    background-color: skyblue;
+    border: 3px solid white;
+    padding: 10px;
+   border-radius: 10px;
+   margin-top: 110px;
+    margin-left: 50px;
+}
+.main_div label{
+     border-radius: 10px;
+    background-color: white;
+    width: 300px;
+    padding: 10px;
+    box-shadow: 5px 5px 18px black;
+    margin-bottom: 0px;
+    font-size: 20px;
+}
+#camera, #result{
+    box-shadow: 5px 5px 18px black;
+    border: 3px dashed black;
+    width:300px;
+    height: 350px;
+}
+.main_div button{
+    width: 300px;
+    box-shadow: 5px 5px 18px black;
+    font-size: 20px;
+    border: 3px solid black;
+    border-radius: 10px;
+}
+.footer_div{
+    margin-bottom: 50px;
+    margin-left: 50px;
+    width: 80%;
+}
+.footer_div h4{
+    background-color: white;
+    border-radius: 10px;
+    padding: 5px;
+    box-shadow: 5px 5px 1px black;
+    width: 80%;
+    height: 15%;
+}
+.footer_div img{
+    width: 10%;
+}
+.copy_right{
+    bottom: 0;
+    position: fixed;
+    width: 100%;
+    text-align: center;
+   background-color: gray;
+   line-height: 3;
+   color: black;
+   text-shadow:1px 1px black;
+   font-size: medium;
+}
+.footer_div span{
+    color: black;
+}
